@@ -8,7 +8,7 @@
       "ticket_address": "0xF75C284e027b3e62b5314B213d64e90183c0B1f2",
       "ticket_level": "0",
       "profitName": "APR",
-      "img": "https://paraluni.org/images/tinified/bronze.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/tinified/bronze.png"
     }
   ],
   "chef1": [
@@ -18,7 +18,7 @@
       "symbol": "ETH/BUSD",
       "decimal": "18",
       "profitName": "APR",
-      "img": "https://paraluni.org/images/tinified/ETH-BUSD.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/tinified/ETH-BUSD.png"
     },
     {
       "pid": "3",
@@ -26,7 +26,7 @@
       "symbol": "USDT",
       "decimal": "18",
       "profitName": "APR",
-      "img": "https://paraluni.org/images/products/USDT@2x.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/products/USDT@2x.png"
     }
   ],
   "chef2": [
@@ -36,7 +36,7 @@
       "symbol": "USDT/BUSD",
       "decimal": "18",
       "profitName": "APR",
-      "img": "https://paraluni.org/images/tinified/USDT-BUSD.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/tinified/USDT-BUSD.png"
     },
     {
       "pid": 4,
@@ -44,7 +44,7 @@
       "symbol": "PUSD/USDT",
       "decimal": 18,
       "profitName": "APR",
-      "img": "https://paraluni.org/images/tinified/PUSD-USDT.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/tinified/PUSD-USDT.png"
     }
   ]
 }

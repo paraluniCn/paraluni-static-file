@@ -8,7 +8,7 @@
       "ticket_address": "0x7D6247006C8F41C09E254312653E1601dc29eBde",
       "ticket_level": "0",
       "profitName": "APR",
-      "img": "https://paraluni.org/images/tinified/bronze.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/tinified/bronze.png"
     },
     {
       "pid": 1,
@@ -18,7 +18,7 @@
       "ticket_address": "0xfcF074E1e358Ffa5c3002A1f3BC1fd44C75fb406",
       "ticket_level": "1",
       "profitName": "APR",
-      "img": "https://paraluni.org/images/tinified/sliver.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/tinified/sliver.png"
     },
     {
       "pid": 2,
@@ -28,7 +28,7 @@
       "ticket_address": "0x636AE89d818bB77350eFbc2Dc4a705aca95CbF8D",
       "ticket_level": "2",
       "profitName": "APR",
-      "img": "https://paraluni.org/images/tinified/gold.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/tinified/gold.png"
     },
     {
       "pid": 3,
@@ -38,7 +38,7 @@
       "ticket_address": "0xCb11B1499fC32B76a13f545fE2e793728D6e7a59",
       "ticket_level": "3",
       "profitName": "APR",
-      "img": "https://paraluni.org/images/tinified/platinum.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/tinified/platinum.png"
     },
     {
       "pid": 4,
@@ -48,7 +48,7 @@
       "ticket_address": "0x450f562BBF8B5084B6e71D0f6d68AA683E805a50",
       "ticket_level": "4",
       "profitName": "APR",
-      "img": "https://paraluni.org/images/tinified/diamond.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/tinified/diamond.png"
     }
   ],
   "chef1": [
@@ -58,7 +58,7 @@
       "symbol": "WBNB/BUSD",
       "decimal": 18,
       "profitName": "APR",
-      "img": "https://paraluni.org/images/tinified/BNB-BUSD.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/tinified/BNB-BUSD.png"
     },
     {
       "pid": 14,
@@ -66,7 +66,7 @@
       "symbol": "BTCB/BUSD",
       "decimal": 18,
       "profitName": "APR",
-      "img": "https://paraluni.org/images/tinified/BTCB-BUSD.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/tinified/BTCB-BUSD.png"
     },
     {
       "pid": 15,
@@ -74,7 +74,7 @@
       "symbol": "ETH/WBNB",
       "decimal": 18,
       "profitName": "APR",
-      "img": "https://paraluni.org/images/tinified/ETH-BNB.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/tinified/ETH-BNB.png"
     },
     {
       "pid": 13,
@@ -82,7 +82,7 @@
       "symbol": "ETH/BUSD",
       "decimal": 18,
       "profitName": "APR",
-      "img": "https://paraluni.org/images/tinified/ETH-BUSD.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/tinified/ETH-BUSD.png"
     },
 
     {
@@ -91,7 +91,7 @@
       "symbol": "BSW/BUSD",
       "decimal": 18,
       "profitName": "APR",
-      "img": "https://paraluni.org/images/tinified/BSW-BUSD.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/tinified/BSW-BUSD.png"
     },
     {
       "pid": 10,
@@ -99,7 +99,7 @@
       "symbol": "CAKE/BUSD",
       "decimal": 18,
       "profitName": "APR",
-      "img": "https://paraluni.org/images/tinified/CAKE-BUSD.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/tinified/CAKE-BUSD.png"
     },
     {
       "pid": 11,
@@ -107,7 +107,7 @@
       "symbol": "LINK/BUSD",
       "decimal": 18,
       "profitName": "APR",
-      "img": "https://paraluni.org/images/tinified/LINK-BUSD.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/tinified/LINK-BUSD.png"
     },
     {
       "pid": 16,
@@ -115,7 +115,7 @@
       "symbol": "BTCB/WBNB",
       "decimal": 18,
       "profitName": "APR",
-      "img": "https://paraluni.org/images/tinified/BTCB-BNB.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/tinified/BTCB-BNB.png"
     },
     {
       "pid": 17,
@@ -123,7 +123,7 @@
       "symbol": "WBNB",
       "decimal": 18,
       "profitName": "APR",
-      "img": "https://paraluni.org/images/tinified/BNB.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/tinified/BNB.png"
     },
     {
       "pid": 18,
@@ -131,7 +131,7 @@
       "symbol": "ETH",
       "decimal": 18,
       "profitName": "APR",
-      "img": "https://paraluni.org/images/tinified/ETH.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/tinified/ETH.png"
     },
     {
       "pid": 19,
@@ -139,7 +139,7 @@
       "symbol": "BTCB",
       "decimal": 18,
       "profitName": "APR",
-      "img": "https://paraluni.org/images/tinified/BTCB.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/tinified/BTCB.png"
     },
     {
       "pid": 6,
@@ -147,7 +147,7 @@
       "symbol": "V42(old)/BUSD",
       "decimal": 18,
       "profitName": "APR",
-      "img": "https://paraluni.org/images/products/PUC-BUSD@2x.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/products/PUC-BUSD@2x.png"
     },
     {
       "pid": 7,
@@ -155,7 +155,7 @@
       "symbol": "V42(old)/BTCB",
       "decimal": 18,
       "profitName": "APR",
-      "img": "https://paraluni.org/images/tinified/V42-BTCB.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/tinified/V42-BTCB.png"
     },
     {
       "pid": 8,
@@ -163,7 +163,7 @@
       "symbol": "V42(old)/WBNB",
       "decimal": 18,
       "profitName": "APR",
-      "img": "https://paraluni.org/images/tinified/V42-BNB.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/tinified/V42-BNB.png"
     },
     {
       "pid": 20,
@@ -171,7 +171,7 @@
       "symbol": "USDT",
       "decimal": 18,
       "profitName": "APR",
-      "img": "https://paraluni.org/images/products/USDT@2x.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/products/USDT@2x.png"
     }
   ],
   "chef2": [
@@ -181,7 +181,7 @@
       "symbol": "USDT/BUSD",
       "decimal": 18,
       "profitName": "APR",
-      "img": "https://paraluni.org/images/tinified/USDT-BUSD.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/tinified/USDT-BUSD.png"
     },
     {
       "pid": 21,
@@ -189,7 +189,7 @@
       "symbol": "PUSD/USDT",
       "decimal": 18,
       "profitName": "APR",
-      "img": "https://paraluni.org/images/tinified/PUSD-USDT.png"
+      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/tinified/PUSD-USDT.png"
     }
   ]
 }
