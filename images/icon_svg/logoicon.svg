@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.23" y1="-0.236" x2="1.233" y2="1.337" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1ff7fd"/>
+      <stop offset="0.491" stop-color="#b33bf6"/>
+      <stop offset="0.846" stop-color="#ff844c"/>
+      <stop offset="1" stop-color="#ff844b"/>
+    </linearGradient>
+  </defs>
+  <g id="组_24822" data-name="组 24822" transform="translate(-2755 -123)">
+    <circle id="椭圆_254" data-name="椭圆 254" cx="10" cy="10" r="10" transform="translate(2755 123)" fill="url(#linear-gradient)"/>
+    <g id="组_24821" data-name="组 24821" transform="translate(2760.15 127.36)">
+      <path id="路径_523" data-name="路径 523" d="M5.714,9.136a.225.225,0,0,0,.225.225h9.248a.225.225,0,0,0,.226-.225V8.285a.226.226,0,0,0-.226-.225H11.162A3.288,3.288,0,0,1,9.343,7.3c-.584-.408-3.214-3.012-3.214-3.012a.225.225,0,0,0-.189.347L8.107,8.06H5.939a.225.225,0,0,0-.225.225Z" transform="translate(-5.714 -4.286)" fill="#fff" fill-rule="evenodd"/>
+      <path id="路径_524" data-name="路径 524" d="M15.413,16.654a.225.225,0,0,0-.225-.225H5.94a.225.225,0,0,0-.226.225V17.5a.226.226,0,0,0,.226.225H9.965a3.288,3.288,0,0,1,1.82.763C12.369,18.9,15,21.5,15,21.5a.225.225,0,0,0,.189-.347L13.021,17.73h2.167a.225.225,0,0,0,.225-.225Z" transform="translate(-5.714 -10.225)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
