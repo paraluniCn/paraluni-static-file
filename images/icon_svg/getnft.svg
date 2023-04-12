@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.269" y1="-0.296" x2="0.803" y2="0.709" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1ff7fd"/>
+      <stop offset="0.491" stop-color="#b33bf6"/>
+      <stop offset="0.846" stop-color="#ff844c"/>
+      <stop offset="1" stop-color="#ff844b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.211" y1="0.21" x2="1" y2="0.9" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="组_24815" data-name="组 24815" transform="translate(-918 -133)">
+    <rect id="矩形_3467" data-name="矩形 3467" width="26" height="26" transform="translate(918 133)" fill="rgba(255,255,255,0)"/>
+    <g id="组_24143" data-name="组 24143" transform="translate(921.072 134.721)">
+      <path id="排除_7" data-name="排除 7" d="M-5617.93,3749.451h-18.525a.591.591,0,0,1-.617-.56.591.591,0,0,1,.617-.56h1.235V3741a2.289,2.289,0,0,1-1.852-2.156v-.56h19.757v.56a2.289,2.289,0,0,1-1.852,2.156v7.335h1.238a.591.591,0,0,1,.617.56A.591.591,0,0,1-5617.93,3749.451Zm-5.175-6.653v3.881h1.006V3742.8h1.564v-.842h-4.071v.842Zm-3.426-.842a3.291,3.291,0,0,0-1.286.2,1.4,1.4,0,0,0-.7.665,3.3,3.3,0,0,0-.2,1.395v2.465h1v-1.947h2.818v-.843h-2.818v-.255a.712.712,0,0,1,.411-.723,2.667,2.667,0,0,1,.9-.113h1.508v-.842Zm-6.246,1.259,0,0,1.925,3.46h1.232v-4.722h-.957v3.518l-1.876-3.518h-1.289v4.722h.962v-3.463Z" transform="translate(5637.071 -3727.118)" fill="url(#linear-gradient)"/>
+      <path id="路径_60158" data-name="路径 60158" d="M274.188,369.1h-14.82l-2.468,4.466h19.76Z" transform="translate(-256.9 -362.961)" fill="url(#linear-gradient)"/>
+      <path id="路径_60161" data-name="路径 60161" d="M319.2,322.574a.608.608,0,0,1,.639-.574h14.009a.577.577,0,1,1,0,1.148H319.839A.61.61,0,0,1,319.2,322.574Z" transform="translate(-316.965 -317.551)" fill="url(#linear-gradient)"/>
+      <path id="路径_60163" data-name="路径 60163" d="M415.347,202.222a.65.65,0,0,1,.4-.269l4-.836a.223.223,0,0,0,.172-.262l-.567-2.709a.223.223,0,0,0-.262-.172l-4.642.972a.223.223,0,0,0-.172.262l.735,3.5Z" transform="translate(-408.623 -197.97)" fill="url(#linear-gradient-4)"/>
+    </g>
+  </g>
+</svg>
