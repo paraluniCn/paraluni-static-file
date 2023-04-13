@@ -4,40 +4,40 @@
       "address": "TT4Svwu4BPXEviWqLYkyK6cDmNvzMcjCRk",
       "symbol": "TRX",
       "decimal": 6,
-      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/Logos/WTRX.png"
+      "img": "https://static.paraluni.org/images/Logos/WTRX.png"
     },
     {
       "address": "TT4Svwu4BPXEviWqLYkyK6cDmNvzMcjCRk",
       "symbol": "WTRX",
       "decimal": 18,
-      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/Logos/WTRX.png"
+      "img": "https://static.paraluni.org/images/Logos/WTRX.png"
     },
     {
       "address": "TQQsGLYnakrmepDXqy4Mo1dpN16yL7rRs4",
       "symbol": "DHC",
       "decimal": 6,
-      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/products/BUSD@2x.png"
+      "img": "https://static.paraluni.org/images/products/BUSD@2x.png"
     },
     {
       "address": "TMrjv1LMXgEUeBYa1yXyg2pAwLLPABfULy",
       "symbol": "LUX",
       "decimal": 6,
-      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/Logos/LUX.png"
+      "img": "https://static.paraluni.org/images/Logos/LUX.png"
     },
     {
       "address": "TGEUiJqmZwpsQsQThp6c4BxxZRfqhNNG6U",
       "symbol": "V42",
       "decimal": 18,
-      "img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/Logos/logo-yellow@2x.png"
+      "img": "https://static.paraluni.org/images/Logos/logo-yellow@2x.png"
     }
   ],
   "HomeCarouselList": [
-    {"img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/Banners/tron-banner1.png", "openNewWindow": false},
-    {"img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/Banners/HomeSwiperBg2.png", "url": ""}
+    {"img": "https://static.paraluni.org/images/Banners/tron-banner1.png", "openNewWindow": false},
+    {"img": "https://static.paraluni.org/images/Banners/HomeSwiperBg2.png", "url": ""}
   ],
   "FinanceCarouselList": [
-    {"img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/Banners/tron-banner2.png", "url": ""},
-    {"img": "https://raw.githubusercontent.com/paraluniCn/paraluni-static-file/main/images/Banners/HomeSwiperBg8.png", "url": ""}
+    {"img": "https://static.paraluni.org/images/Banners/tron-banner2.png", "url": ""},
+    {"img": "https://static.paraluni.org/images/Banners/HomeSwiperBg8.png", "url": ""}
   ],
   "toastInfo": {
     "isShow": true,
