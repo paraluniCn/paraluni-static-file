@@ -118,7 +118,8 @@
     {"img":  "https://static.paraluni.org/images/Banners/pledge-V42.png", "url": "/pledgeBorrowIntroduction", "openNewWindow": false},
     {"img":  "https://static.paraluni.org/images/Banners/pledge_borrow_banner.png", "url": "/pledgeBorrowIntroduction", "openNewWindow": false},
     {"img":  "https://static.paraluni.org/images/Banners/paraluni_trade_banner.png", "url": ""},
-    {"img":  "https://static.paraluni.org/images/Banners/HomeSwiperBg5.png", "url": "https://legacy.paraluni.org/", "openNewWindow": true}
+    {"img":  "https://static.paraluni.org/images/Banners/HomeSwiperBg5.png", "url": "https://legacy.paraluni.org/", "openNewWindow": true},
+    {"img":  "https://static.paraluni.org/images/Banners/btc_fund_banner.png", "url": "https://apollo.paraluni.org/pusdFundBuy/5", "openNewWindow": true}
   ],
   "FinanceCarouselList": [
     {"img":  "https://static.paraluni.org/images/Banners/qfd_banner_small.png", "url": "/finance", "openNewWindow": false},
