@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52.781" height="52.782" viewBox="0 0 52.781 52.782">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="矩形_40" data-name="矩形 40" width="36.065" height="36.065" transform="translate(25.502 0) rotate(45)" fill="#262424"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="gray"/>
+    </linearGradient>
+  </defs>
+  <g id="组_24707" data-name="组 24707" transform="translate(-2125 -3709.124)">
+    <rect id="矩形_39" data-name="矩形 39" width="36.065" height="36.065" transform="translate(2151.391 3710.013) rotate(45)" fill="#262424"/>
+    <g id="蒙版组_2" data-name="蒙版组 2" transform="translate(2125.888 3710.013)" clip-path="url(#clip-path)">
+      <g id="组_24372" data-name="组 24372" transform="translate(3.031 12.689)">
+        <g id="矩形_34" data-name="矩形 34" transform="translate(22.471) rotate(45)" fill="#23211e" stroke="#373737" stroke-width="5">
+          <rect width="31.779" height="31.779" stroke="none"/>
+          <rect x="2.5" y="2.5" width="26.779" height="26.779" fill="none"/>
+        </g>
+        <rect id="矩形_35" data-name="矩形 35" width="13.464" height="13.464" transform="translate(22.471 12.951) rotate(45)" fill="#373737"/>
+      </g>
+    </g>
+    <path id="路径_135" data-name="路径 135" d="M26.391,52.782l-4.728-4.728-.973.324-7.09-7.09.324-.973L0,26.391,26.391,0l26.39,26.391L39.122,40.05l.413,1.237-7.091,7.091-1.237-.413-4.816,4.816h0ZM3.15,26.391l23.24,19.9,23.24-19.9-7.039-7.039-1.848.617-7.09-7.09.616-1.849L26.391,3.151l-7.615,7.615.7,2.113-7.09,7.09-2.112-.7Z" transform="translate(2125 3709.124)" fill="url(#linear-gradient)"/>
+    <text id="LV2" transform="translate(2151.391 3742.015)" fill="#fff" font-size="12" font-family="PangMenZhengDao"><tspan x="-13.78" y="0">LV</tspan><tspan y="0" font-size="19">2</tspan></text>
+  </g>
+</svg>
