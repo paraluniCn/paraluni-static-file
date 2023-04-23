@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="矩形_3188" data-name="矩形 3188" width="60" height="60" transform="translate(212 2230)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="矩形_3187" data-name="矩形 3187" width="39.423" height="39.423" transform="translate(27.876 0) rotate(45)" fill="#262424"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#23d0fa"/>
+      <stop offset="1" stop-color="#12377d"/>
+    </linearGradient>
+  </defs>
+  <g id="蒙版组_70" data-name="蒙版组 70" transform="translate(-212 -2230)" clip-path="url(#clip-path)">
+    <g id="组_24889" data-name="组 24889" transform="translate(213.111 2231.111)">
+      <rect id="矩形_3184" data-name="矩形 3184" width="39.423" height="39.423" transform="translate(28.848 0.972) rotate(45)" fill="#032650"/>
+      <g id="蒙版组_69" data-name="蒙版组 69" transform="translate(0.971 0.972)" clip-path="url(#clip-path-2)">
+        <g id="组_24888" data-name="组 24888" transform="translate(3.313 13.87)">
+          <g id="矩形_3185" data-name="矩形 3185" transform="translate(24.563) rotate(45)" fill="#1c2d61" stroke="#354c91" stroke-width="5">
+            <rect width="34.737" height="34.737" stroke="none"/>
+            <rect x="2.5" y="2.5" width="29.737" height="29.737" fill="none"/>
+          </g>
+          <rect id="矩形_3186" data-name="矩形 3186" width="14.717" height="14.717" transform="translate(24.563 14.156) rotate(45)" fill="#354c91"/>
+        </g>
+      </g>
+      <path id="路径_56447" data-name="路径 56447" d="M28.848,57.7,23.68,52.527l-1.063.354-7.75-7.75.354-1.063L0,28.848,28.848,0,57.7,28.848,42.764,43.779l.451,1.353-7.751,7.751-1.353-.451L28.848,57.7h0ZM3.444,28.848l25.4,21.75,25.4-21.75-7.694-7.694-2.021.674-7.75-7.75.674-2.021L28.848,3.444l-8.324,8.324.769,2.309-7.75,7.75-2.309-.77Z" fill="url(#linear-gradient)"/>
+      <text id="LV6" transform="translate(27.804 35.64)" fill="#fff" font-size="12" font-family="PangMenZhengDao"><tspan x="-14.41" y="0">LV</tspan><tspan y="0" font-size="20">6</tspan></text>
+    </g>
+  </g>
+</svg>
