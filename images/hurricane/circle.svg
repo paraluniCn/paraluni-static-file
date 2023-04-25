@@ -1,26 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="121" viewBox="0 0 128 121">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="98" viewBox="0 0 128 98">
   <defs>
     <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#fbe8c6"/>
       <stop offset="0.207" stop-color="#fef8e7"/>
       <stop offset="1" stop-color="#eedbb9"/>
     </linearGradient>
-    <filter id="多边形_7" x="0" y="23" width="128" height="98" filterUnits="userSpaceOnUse">
+    <filter id="多边形_7" x="0" y="0" width="128" height="98" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur"/>
       <feFlood flood-opacity="0.102"/>
       <feComposite operator="in" in2="blur"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <linearGradient id="linear-gradient-2" x1="0.201" y1="0.043" x2="0.873" y2="1.164" gradientUnits="objectBoundingBox">
-      <stop offset="0" stop-color="#d133c5"/>
-      <stop offset="1" stop-color="#7700ed"/>
-    </linearGradient>
   </defs>
-  <g id="组_24953" data-name="组 24953" transform="translate(-7217 -1341)">
-    <g transform="matrix(1, 0, 0, 1, 7217, 1341)" filter="url(#多边形_7)">
-      <path id="多边形_7-2" data-name="多边形 7" d="M55,0l55,80H0Z" transform="translate(119 109) rotate(180)" fill="url(#linear-gradient)"/>
-    </g>
-    <rect id="矩形_120" data-name="矩形 120" width="124" height="31" rx="7" transform="translate(7219 1342)" stroke="#fff" stroke-width="2" fill="url(#linear-gradient-2)"/>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#多边形_7)">
+    <path id="多边形_7-2" data-name="多边形 7" d="M55,0l55,80H0Z" transform="translate(119 86) rotate(180)" fill="url(#linear-gradient)"/>
   </g>
 </svg>
