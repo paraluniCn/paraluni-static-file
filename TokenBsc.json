@@ -89,7 +89,13 @@
       "symbol": "Aster",
       "decimal": 18,
       "img": "https://static.paraluni.org/images/Logos/ASTER.png"
-    }
+    },
+     {
+         "address": "0xf9fb823089f7178fc19be2bf1d811937bbf3f331",
+         "symbol": "NL",
+         "decimal": 18,
+         "img": "https://paraluni.org/images/Logos/NL.png"
+     }
   ],
   "tokenListNew": [
     {
