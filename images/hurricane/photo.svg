@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56" height="56" viewBox="0 0 56 56">
+  <defs>
+    <filter id="椭圆_192" x="0" y="0" width="56" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-color="#8d1a00"/>
+      <feComposite operator="in" in2="blur"/>
+    </filter>
+    <filter id="椭圆_192-2" x="0" y="0" width="56" height="56" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-2"/>
+      <feFlood flood-color="#e2a241" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="组_23079" data-name="组 23079" transform="translate(-17039 -3365)" style="isolation: isolate">
+    <g data-type="innerShadowGroup">
+      <g transform="matrix(1, 0, 0, 1, 17039, 3365)" filter="url(#椭圆_192)">
+        <g id="椭圆_192-3" data-name="椭圆 192" transform="translate(3 2)" fill="#f4ebd6" stroke="#e4bf83" stroke-width="3">
+          <circle cx="25" cy="25" r="25" stroke="none"/>
+          <circle cx="25" cy="25" r="23.5" fill="none"/>
+        </g>
+      </g>
+      <circle id="椭圆_192-4" data-name="椭圆 192" cx="25" cy="25" r="25" transform="translate(17042 3367)" fill="#f4ebd6"/>
+      <g transform="matrix(1, 0, 0, 1, 17039, 3365)" filter="url(#椭圆_192-2)">
+        <circle id="椭圆_192-5" data-name="椭圆 192" cx="25" cy="25" r="25" transform="translate(3 2)" fill="#fff"/>
+      </g>
+      <g id="椭圆_192-6" data-name="椭圆 192" transform="translate(17042 3367)" fill="none" stroke="#e4bf83" stroke-width="3">
+        <circle cx="25" cy="25" r="25" stroke="none"/>
+        <circle cx="25" cy="25" r="23.5" fill="none"/>
+      </g>
+    </g>
+    <path id="路径_59747" data-name="路径 59747" d="M82.632,99.712A2.629,2.629,0,0,0,81.6,99.5H64.988a3.129,3.129,0,0,0-1.059.188A2.988,2.988,0,0,0,62,102.464v14.8a2.923,2.923,0,0,0,1.953,2.753,3.129,3.129,0,0,0,1.059.188H81.6a2.992,2.992,0,0,0,2.988-2.988V102.464A2.922,2.922,0,0,0,82.632,99.712Zm-11.6,6.446a2.259,2.259,0,1,1-2.258-2.211A2.234,2.234,0,0,1,71.034,106.158ZM81.6,118.7H64.988a1.488,1.488,0,0,1-1.459-1.176,1.145,1.145,0,0,1-.024-.282v-1.129l4.446-3.764,1.6,1.529a2.3,2.3,0,0,0,3.035.118l7.5-6.211c1.435,1.553,2.423,2.588,3.035,3.129v6.3A1.548,1.548,0,0,1,81.6,118.7Z" transform="translate(16993.709 3282.148)" fill="#7f4823"/>
+  </g>
+</svg>
