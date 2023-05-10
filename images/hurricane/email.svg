@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56" height="56" viewBox="0 0 56 56">
+  <defs>
+    <filter id="椭圆_192" x="0" y="0" width="56" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-color="#8d1a00"/>
+      <feComposite operator="in" in2="blur"/>
+    </filter>
+    <filter id="椭圆_192-2" x="0" y="0" width="56" height="56" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-2"/>
+      <feFlood flood-color="#e2a241" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="组_23298" data-name="组 23298" transform="translate(-2 2)">
+    <g data-type="innerShadowGroup">
+      <g transform="matrix(1, 0, 0, 1, 2, -2)" filter="url(#椭圆_192)">
+        <g id="椭圆_192-3" data-name="椭圆 192" transform="translate(3 2)" fill="#f4ebd6" stroke="#e4bf83" stroke-width="3">
+          <circle cx="25" cy="25" r="25" stroke="none"/>
+          <circle cx="25" cy="25" r="23.5" fill="none"/>
+        </g>
+      </g>
+      <circle id="椭圆_192-4" data-name="椭圆 192" cx="25" cy="25" r="25" transform="translate(5)" fill="#f4ebd6"/>
+      <g transform="matrix(1, 0, 0, 1, 2, -2)" filter="url(#椭圆_192-2)">
+        <circle id="椭圆_192-5" data-name="椭圆 192" cx="25" cy="25" r="25" transform="translate(3 2)" fill="#fff"/>
+      </g>
+      <g id="椭圆_192-6" data-name="椭圆 192" transform="translate(5)" fill="none" stroke="#e4bf83" stroke-width="3">
+        <circle cx="25" cy="25" r="25" stroke="none"/>
+        <circle cx="25" cy="25" r="23.5" fill="none"/>
+      </g>
+    </g>
+    <path id="路径_59745" data-name="路径 59745" d="M42.765,202.138H25.005a2.127,2.127,0,0,0-2.128,2.128v1.419H19.217a.477.477,0,0,0,0,.955h3.661v1.454h-2.63a.477.477,0,1,0,0,.955h2.63V217.4a2.127,2.127,0,0,0,2.128,2.128H42.765a2.127,2.127,0,0,0,2.128-2.128V204.265A2.127,2.127,0,0,0,42.765,202.138Zm.027,2.461-8.629,8.784a.433.433,0,0,1-.308.128h0a.43.43,0,0,1-.308-.131l-8.569-8.773a.43.43,0,0,1,.617-.6l8.26,8.46,8.32-8.473a.431.431,0,0,1,.608-.005A.436.436,0,0,1,42.792,204.6Z" transform="translate(-3.814 -185.835)" fill="#7f4823"/>
+  </g>
+</svg>
