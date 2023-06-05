@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <clipPath id="whvlxyurka">
+            <path data-name="矩形 97" style="fill:transparent" d="M0 0h16v16H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="蒙版组 507" style="clip-path:url(#whvlxyurka)">
+        <path data-name="路径 60217" d="M194.879 81.907h-2.429a.452.452 0 0 1-.423-.614l2.413-6.335a.453.453 0 0 1 .423-.291h4.073a.452.452 0 0 1 .419.623l-1.405 3.449h2.645a.453.453 0 0 1 .34.751l-6.486 7.391a.452.452 0 0 1-.778-.414zm.3-6.335L193.106 81h2.36a.453.453 0 0 1 .438.568l-.865 3.266 4.557-5.192h-2.319a.452.452 0 0 1-.419-.623l1.405-3.449h-3.088z" transform="translate(-188.522 -72.852)" style="fill:#2873ff;stroke:#2873ff;stroke-width:.2px"/>
+    </g>
+</svg>
