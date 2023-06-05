@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="12" viewBox="0 0 12 12">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="矩形_3580" data-name="矩形 3580" width="12" height="12" transform="translate(376 3313)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="蒙版组_512" data-name="蒙版组 512" transform="translate(-376 -3313)" clip-path="url(#clip-path)">
+    <g id="组_24993" data-name="组 24993" transform="translate(377.741 3314.656)">
+      <rect id="Rectangle" width="1.337" height="8.688" rx="0.668" fill="#8e9bae" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+      <rect id="Rectangle-2" data-name="Rectangle" width="1.337" height="5.347" rx="0.668" transform="translate(2.673 3.342)" fill="#8e9bae" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+      <rect id="Rectangle-3" data-name="Rectangle" width="1.337" height="6.683" rx="0.668" transform="translate(5.347 2.005)" fill="#8e9bae" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+      <rect id="Rectangle-4" data-name="Rectangle" width="1.337" height="3.342" rx="0.668" transform="translate(8.02 5.347)" fill="#8e9bae" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
