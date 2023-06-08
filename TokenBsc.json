@@ -99,10 +99,10 @@
   ],
   "tokenListNew": [
     {
-      "address": "0x8EE943bab23C31de7164Ab8aB18a6eAa47f15478",
-      "symbol": "PUSD",
+      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "symbol": "USDT",
       "decimal": 18,
-      "img": "https://static.paraluni.org/images/pusd/pusd.png"
+      "img": "https://static.paraluni.org/images/products/USDT@2x.png"
     },
     {
       "address": "0xBb87F2a37cf805E3755Cb1e7DA41140589190e25",
@@ -111,11 +111,13 @@
       "img": "https://static.paraluni.org/images/Logos/logo-yellow@2x.png"
     },
     {
-      "address": "0x55d398326f99059ff775485246999027b3197955",
-      "symbol": "USDT",
+      "address": "0x8EE943bab23C31de7164Ab8aB18a6eAa47f15478",
+      "symbol": "PUSD",
       "decimal": 18,
-      "img": "https://static.paraluni.org/images/products/USDT@2x.png"
+      "img": "https://static.paraluni.org/images/pusd/pusd.png"
     }
+
+
   ],
   "HomeCarouselList": [
     {"img":  "https://static.paraluni.org/images/Banners/btc_fund_banner.png", "url": "https://apollo.paraluni.org/pusdFundBuy/5", "openNewWindow": true},
