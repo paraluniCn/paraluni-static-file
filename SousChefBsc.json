@@ -200,8 +200,16 @@
         "img": "https://static.paraluni.org/images/Logos/logo-yellow@2x.png",
         "V42": "0xBb87F2a37cf805E3755Cb1e7DA41140589190e25",
         "name": "V42/14"
+      },
+      {
+        "type": 1,
+        "pid": 47,
+        "symbol": "SP/V42",
+        "img": "https://static.paraluni.org/images/Logos/sp.png",
+        "SP": "0x49b011Ca726F0C3A13AEA4e748249597AC790b39",
+        "V42": "0xBb87F2a37cf805E3755Cb1e7DA41140589190e25",
+        "name": "SP/180"
       }
-
     ],
     "lpList": [
       {
@@ -306,6 +314,14 @@
         "symbol": "Aster/USDT",
         "img": "https://static.paraluni.org/images/Logos/ASTER-USDT.png",
         "Aster": "0x846b8F848bd3e55183E03DBc8170655947Cc3C2c",
+        "USDT": "0x55d398326f99059ff775485246999027b3197955"
+      },
+      {
+        "type": 3,
+        "pid": 48,
+        "symbol": "SP/USDT",
+        "img": "https://static.paraluni.org/images/tinified/SP-USDT.png",
+        "SP": "0x49b011Ca726F0C3A13AEA4e748249597AC790b39",
         "USDT": "0x55d398326f99059ff775485246999027b3197955"
       }
     ],
