@@ -94,13 +94,13 @@
          "address": "0xf9fb823089f7178fc19be2bf1d811937bbf3f331",
          "symbol": "NL",
          "decimal": 18,
-         "img": "https://paraluni.org/images/Logos/NL.png"
+         "img": "https://static.paraluni.org/images/Logos/NL.png"
      },
     {
       "address": "0x49b011Ca726F0C3A13AEA4e748249597AC790b39",
       "symbol": "SP",
       "decimal": 18,
-      "img": "https://paraluni.org/images/Logos/sp.png"
+      "img": "https://static.paraluni.org/images/Logos/sp.png"
     }
   ],
   "tokenListNew": [
