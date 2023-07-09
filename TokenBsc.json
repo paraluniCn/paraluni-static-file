@@ -106,7 +106,8 @@
       "address": "0x8b3F149395B1331ecB1CFB3e2E6A9b0170310384",
       "symbol": "BTB",
       "decimal": 18,
-      "img": "https://static.paraluni.org/images/hurricane/BTB.png"
+      "img": "https://static.paraluni.org/images/hurricane/BTB.png",
+      "noBuy": true
     }
   ],
   "tokenListNew": [
