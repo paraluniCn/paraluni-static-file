@@ -3,6 +3,15 @@
     "aggregationList": [
       {
         "type": 1,
+        "pid": 50,
+        "symbol": "BTB/V42",
+        "img": "https://static.paraluni.org/images/hurricane/BTB.png",
+        "BTB": "0x8b3F149395B1331ecB1CFB3e2E6A9b0170310384",
+        "V42": "0xBb87F2a37cf805E3755Cb1e7DA41140589190e25",
+        "name": "BTB/30"
+      },
+      {
+        "type": 1,
         "pid": 45,
         "symbol": "PUSD/V42",
         "img": "https://static.paraluni.org/images/pusd/pusd.png",
@@ -219,6 +228,14 @@
         "img": "https://static.paraluni.org/images/Logos/V42-USDT.png",
         "V42": "0xBb87F2a37cf805E3755Cb1e7DA41140589190e25",
         "USDT": "0x55d398326f99059ff775485246999027b3197955"
+      },
+      {
+        "type": 3,
+        "pid": 49,
+        "symbol": "BTB/WBNB",
+        "img": "https://static.paraluni.org/images/hurricane/BTB-WBNB.png",
+        "BTB": "0x8b3F149395B1331ecB1CFB3e2E6A9b0170310384",
+        "WBNB": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
       },
       {
         "type": 3,
