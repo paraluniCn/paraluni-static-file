@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <clipPath id="2czm0ummoa">
+            <path data-name="矩形 3648" transform="translate(0 1)" style="fill:#fff;stroke:#707070" d="M0 0h16v16H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="蒙版组 612" transform="translate(0 -1)" style="clip-path:url(#2czm0ummoa)">
+        <g data-name="组 24312">
+            <path data-name="矩形 97" style="fill:transparent" d="M0 0h16v16H0z" transform="translate(0 1)"/>
+            <g data-name="组 24356">
+                <path data-name="路径 60183" d="M96.989 89.6h-9.174a.778.778 0 0 0-.775.775v9.109a.778.778 0 0 0 .775.775h9.174a.778.778 0 0 0 .775-.775v-9.109a.778.778 0 0 0-.775-.775zm.258 9.884a.262.262 0 0 1-.258.258h-9.174a.262.262 0 0 1-.258-.258v-7.171h9.691zm0-7.688h-9.69v-1.421a.262.262 0 0 1 .258-.258h9.174a.262.262 0 0 1 .258.258z" transform="translate(-84.402 -85.93)" style="fill:#2873ff;stroke:#2873ff;stroke-miterlimit:10;stroke-width:.3px"/>
+                <path data-name="路径 60184" d="M194.56 184.578a.258.258 0 1 0 .258-.258.258.258 0 0 0-.258.258z" transform="translate(-190.565 -179.455)" style="fill:#2873ff;stroke:#2873ff;stroke-miterlimit:10;stroke-width:.3px"/>
+                <path data-name="路径 60185" d="M271.36 184.578a.258.258 0 1 0 .258-.258.258.258 0 0 0-.258.258z" transform="translate(-266.396 -179.455)" style="fill:#2873ff;stroke:#2873ff;stroke-miterlimit:10;stroke-width:.3px"/>
+                <path data-name="路径 60186" d="M348.16 184.578a.258.258 0 1 0 .258-.258.258.258 0 0 0-.258.258z" transform="translate(-342.227 -179.455)" style="fill:#2873ff;stroke:#2873ff;stroke-miterlimit:10;stroke-width:.3px"/>
+                <path data-name="路径 60187" d="m185.926 440.838 1.638 1.638a.265.265 0 0 0 .329.041.259.259 0 0 0 .043-.4l-1.416-1.417a.089.089 0 0 1 0-.127l1.41-1.41a.265.265 0 0 0 .041-.329.259.259 0 0 0-.4-.043l-1.645 1.644c-.055.055-.143.129-.138.2s.084.148.138.203zm7.361-.264a.089.089 0 0 1 0 .127l-1.415 1.415a.259.259 0 0 0 .043.4.265.265 0 0 0 .329-.041l1.638-1.638c.055-.055.143-.128.138-.2s-.083-.145-.138-.2l-1.644-1.644a.259.259 0 0 0-.4.043.265.265 0 0 0 .041.329zm-4.415 2.344a.953.953 0 0 0 .344-.123l1.843-3.9a.259.259 0 1 0-.468-.221l-1.843 3.9a.351.351 0 0 0 .123.344z" transform="translate(-181.904 -430.455)" style="fill:#2873ff;stroke:#2873ff;stroke-miterlimit:10;stroke-width:.3px"/>
+            </g>
+        </g>
+    </g>
+</svg>
