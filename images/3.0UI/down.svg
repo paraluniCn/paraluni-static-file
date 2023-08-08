@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10" height="10" viewBox="0 0 10 10">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="矩形_3651" data-name="矩形 3651" width="10" height="10" transform="translate(1257 13940)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="蒙版组_614" data-name="蒙版组 614" transform="translate(-1257 -13940)" clip-path="url(#clip-path)">
+    <g id="组_25427" data-name="组 25427" transform="translate(1129 13940)">
+      <rect id="矩形_194" data-name="矩形 194" width="10" height="10" transform="translate(128)" fill="rgba(255,255,255,0)"/>
+      <path id="路径_399" data-name="路径 399" d="M230.223,368.177a.667.667,0,0,0-.488-.177l-6.648.044a.667.667,0,0,0-.488.177.643.643,0,0,0,0,.931l3.324,3.324h0c.044.044.133.089.177.133l.044.044a.694.694,0,0,0,.709-.133l3.324-3.368A.7.7,0,0,0,230.223,368.177Z" transform="translate(-93.4 -365)" fill="#8e9bae"/>
+    </g>
+  </g>
+</svg>
