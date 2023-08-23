@@ -18,7 +18,9 @@
       "symbol": "ETH/BUSD",
       "decimal": "18",
       "profitName": "APR",
-      "img": "https://static.paraluni.org/images/tinified/ETH-BUSD.png"
+      "img": "https://static.paraluni.org/images/tinified/ETH-BUSD.png",
+      "imgOne": "https://static.paraluni.org/images/tinified/ETH.png",
+      "imgTwo": "https://static.paraluni.org/images/products/BUSD@2x.png"
     },
     {
       "pid": 7,
@@ -26,7 +28,9 @@
       "symbol": "BTCB",
       "decimal": "18",
       "profitName": "APR",
-      "img": "https://static.paraluni.org/images/tinified/BTCB.png"
+      "img": "https://static.paraluni.org/images/tinified/BTCB.png",
+      "imgOne": "https://static.paraluni.org/images/tinified/BTCB.png",
+      "imgTwo": "https://static.paraluni.org/images/tinified/BTCB.png"
     },
     {
       "pid": 8,
@@ -34,7 +38,9 @@
       "symbol": "ETH",
       "decimal": "18",
       "profitName": "APR",
-      "img": "https://static.paraluni.org/images/tinified/ETH.png"
+      "img": "https://static.paraluni.org/images/tinified/ETH.png",
+      "imgOne": "https://static.paraluni.org/images/tinified/ETH.png",
+      "imgTwo": "https://static.paraluni.org/images/tinified/ETH.png"
     }
   ],
   "chef2": [
@@ -44,7 +50,9 @@
       "symbol": "USDT/BUSD",
       "decimal": "18",
       "profitName": "APR",
-      "img": "https://static.paraluni.org/images/tinified/USDT-BUSD.png"
+      "img": "https://static.paraluni.org/images/tinified/USDT-BUSD.png",
+      "imgOne": "https://static.paraluni.org/images/products/USDT@2x.png",
+      "imgTwo": "https://static.paraluni.org/images/products/BUSD@2x.png"
     },
     {
       "pid": 4,
@@ -52,7 +60,9 @@
       "symbol": "PUSD/USDT",
       "decimal": 18,
       "profitName": "APR",
-      "img": "https://static.paraluni.org/images/tinified/PUSD-USDT.png"
+      "img": "https://static.paraluni.org/images/tinified/PUSD-USDT.png",
+      "imgOne": "https://static.paraluni.org/images/pusd/pusd.png",
+      "imgTwo": "https://static.paraluni.org/images/products/USDT@2x.png"
     }
   ]
 }
