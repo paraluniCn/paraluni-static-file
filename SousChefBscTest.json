@@ -26,6 +26,8 @@
         "type": "3",
         "pid": 10,
         "symbol": "LS/USDT",
+        "LS": "0x2A49331d6EA02ec23Ed229d252772874CB89c9c7",
+        "USDT": "0xad30bad7a6f660a78c9b58a8dba8cb7213c2f8a9",
         "img": "https://static.paraluni.org/images/Logos/LS-USDT.png",
         "imgOne": "https://static.paraluni.org/images/products/BSW@2x.png",
         "imgTwo": "https://static.paraluni.org/images/products/USDT@2x.png"
@@ -34,6 +36,8 @@
         "type": 3,
         "pid": 12,
         "symbol": "V42/PUSD",
+        "V42": "0xE5a678BCd1d625D9723A0f274daFFE225AD0b81c",
+        "PUSD": "0x5A39e6dfaf0637A3ee2f9cf95C241195dd74ac80",
         "img": "https://static.paraluni.org/images/tinified/PUSD-USDT.png",
         "imgOne": "https://static.paraluni.org/images/Logos/logo-yellow@2x.png",
         "imgTwo": "https://static.paraluni.org/images/pusd/pusd.png"
