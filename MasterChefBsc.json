@@ -72,6 +72,39 @@
       "imgOne": "https://static.paraluni.org/images/tinified/BTCB.png",
       "imgTwo": "https://static.paraluni.org/images/products/BUSD@2x.png"
     },
+
+
+    {
+      "pid": 24,
+      "token": "0x5c0e769ff1fD8F3D069adFb109c165e8b5fd5F8A",
+      "symbol": "ETH/PUSD",
+      "decimal": 18,
+      "profitName": "APR",
+      "img": "https://static.paraluni.org/images/tinified/ETH-PUSD.png",
+      "imgOne": "https://static.paraluni.org/images/tinified/ETH.png",
+      "imgTwo": "https://static.paraluni.org/images/pusd/pusd.png"
+    },
+    {
+      "pid": 22,
+      "token": "0xb2C1ac5835E1380309AE8398EE9Ff804f72DF938",
+      "symbol": "CAKE/PUSD",
+      "decimal": 18,
+      "profitName": "APR",
+      "img": "https://static.paraluni.org/images/tinified/CAKE-PUSD.png",
+      "imgOne": "https://static.paraluni.org/images/products/CAKE@2x.png",
+      "imgTwo": "https://static.paraluni.org/images/pusd/pusd.png"
+    },
+    {
+      "pid": 23,
+      "token": "0x29F84F63cF11A174192d80DB4b630CFB2CEA6652",
+      "symbol": "LINK/PUSD",
+      "decimal": 18,
+      "profitName": "APR",
+      "img": "https://static.paraluni.org/images/tinified/LINK-PUSD.png",
+      "imgOne": "https://static.paraluni.org/images/products/LINK@2x.png",
+      "imgTwo": "https://static.paraluni.org/images/pusd/pusd.png"
+    },
+
     {
       "pid": 15,
       "token": "0xfA0f2D55067C2b6E7e6153ab28Cb4E6d7Ac6c370",
