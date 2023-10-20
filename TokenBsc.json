@@ -108,6 +108,12 @@
       "decimal": 18,
       "img": "https://static.paraluni.org/images/hurricane/BTB.png",
       "noBuy": true
+    },
+    {
+      "address": "0x8EE943bab23C31de7164Ab8aB18a6eAa47f15478",
+      "symbol": "PUSD",
+      "decimal": 18,
+      "img": "https://static.paraluni.org/images/pusd/pusd.png"
     }
   ],
   "tokenListNew": [
