@@ -155,7 +155,7 @@
     {"img":  "https://static.paraluni.org/images/Banners/BannerCgkSmall.png"}
   ],
   "toastInfo": {
-    "isShow": true,
+    "isShow": false,
     "text1": "飓风矿机挖矿开启！",
     "text2": "",
     "url": "",
