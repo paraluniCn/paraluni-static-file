@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="HouseSimple_Background_" data-name="HouseSimple (Background)" width="24" height="24" transform="translate(-16434 -10004)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="蒙版组_660" data-name="蒙版组 660" transform="translate(16434 10004)" clip-path="url(#clip-path)">
+    <path id="路径_60359" data-name="路径 60359" d="M13.336,21.345l-2.229-2.007a1,1,0,0,1-.075-1.413L13.04,15.7a1,1,0,0,1,1.412-.074l2.229,2.007a1,1,0,0,1,.074,1.413l-2.007,2.229a1,1,0,0,1-1.412.074ZM.627,17.392.209,13.414a2,2,0,0,1,1.78-2.2L5.967,10.8a2,2,0,0,1,2.2,1.78l.418,3.978a2,2,0,0,1-1.78,2.2l-3.978.418a2.026,2.026,0,0,1-.211.011A2,2,0,0,1,.627,17.392ZM12.076,12.2,8.84,9.853a3,3,0,0,1-.663-4.19l2.351-3.236a3,3,0,0,1,4.19-.664l3.236,2.352a3,3,0,0,1,.663,4.19l-2.351,3.235a3,3,0,0,1-4.19.664Z" transform="translate(-16431.695 -10003.396)" fill="#fff"/>
+  </g>
+</svg>
