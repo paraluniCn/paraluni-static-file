@@ -72,8 +72,6 @@
       "imgOne": "https://static.paraluni.org/images/tinified/BTCB.png",
       "imgTwo": "https://static.paraluni.org/images/products/BUSD@2x.png"
     },
-
-
     {
       "pid": 24,
       "token": "0x5c0e769ff1fD8F3D069adFb109c165e8b5fd5F8A",
@@ -104,7 +102,6 @@
       "imgOne": "https://static.paraluni.org/images/products/LINK@2x.png",
       "imgTwo": "https://static.paraluni.org/images/pusd/pusd.png"
     },
-
     {
       "pid": 15,
       "token": "0xfA0f2D55067C2b6E7e6153ab28Cb4E6d7Ac6c370",
@@ -125,7 +122,6 @@
       "imgOne": "https://static.paraluni.org/images/tinified/ETH.png",
       "imgTwo": "https://static.paraluni.org/images/products/BUSD@2x.png"
     },
-
     {
       "pid": 9,
       "token": "0xa4d3aE798a415fA9b25Af902659d814F46B2269A",

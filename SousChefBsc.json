@@ -3,6 +3,22 @@
     "aggregationList": [
       {
         "type": 1,
+        "pid": 44,
+        "symbol": "V42/V42",
+        "img": "https://static.paraluni.org/images/Logos/logo-yellow@2x.png",
+        "V42": "0xBb87F2a37cf805E3755Cb1e7DA41140589190e25",
+        "name": "V42/14"
+      },
+      {
+        "type": 1,
+        "pid": 30,
+        "symbol": "V42/V42",
+        "img": "https://static.paraluni.org/images/Logos/logo-yellow@2x.png",
+        "V42": "0xBb87F2a37cf805E3755Cb1e7DA41140589190e25",
+        "name": "V42/60"
+      },
+      {
+        "type": 1,
         "pid": 50,
         "symbol": "BTB/V42",
         "img": "https://static.paraluni.org/images/hurricane/BTB.png",
@@ -20,11 +36,11 @@
       },
       {
         "type": 1,
-        "pid": 30,
+        "pid": 43,
         "symbol": "V42/V42",
         "img": "https://static.paraluni.org/images/Logos/logo-yellow@2x.png",
         "V42": "0xBb87F2a37cf805E3755Cb1e7DA41140589190e25",
-        "name": "V42/60"
+        "name": "V42/7"
       },
       {
         "type": 1,
@@ -36,21 +52,30 @@
       },
       {
         "type": 1,
-        "pid": 0,
-        "symbol": "CF/V42",
-        "img": "https://static.paraluni.org/images/tinified/CF.png",
-        "CF": "0xFdc7a089CD7463dd6be155A7f3f21CF10338B888",
-        "v42": "0xA573cD6890b50E02Dd658164882ee7B6A86C1122",
-        "name": "CF/90"
+        "pid": 41,
+        "symbol": "USDT/V42",
+        "img": "https://static.paraluni.org/images/products/USDT@2x.png",
+        "USDT": "0x55d398326f99059ff775485246999027b3197955",
+        "V42": "0xA573cD6890b50E02Dd658164882ee7B6A86C1122",
+        "name": "USDT/180"
       },
       {
         "type": 1,
-        "pid": 1,
-        "symbol": "CF/V42",
-        "img": "https://static.paraluni.org/images/tinified/CF.png",
-        "CF": "0xFdc7a089CD7463dd6be155A7f3f21CF10338B888",
-        "v42": "0xA573cD6890b50E02Dd658164882ee7B6A86C1122",
-        "name": "CF/60"
+        "pid": 42,
+        "symbol": "USDT/V42",
+        "img": "https://static.paraluni.org/images/products/USDT@2x.png",
+        "USDT": "0x55d398326f99059ff775485246999027b3197955",
+        "V42": "0xA573cD6890b50E02Dd658164882ee7B6A86C1122",
+        "name": "USDT/360"
+      },
+      {
+        "type": 1,
+        "pid": 47,
+        "symbol": "SP/V42",
+        "img": "https://static.paraluni.org/images/Logos/sp.png",
+        "SP": "0x49b011Ca726F0C3A13AEA4e748249597AC790b39",
+        "V42": "0xBb87F2a37cf805E3755Cb1e7DA41140589190e25",
+        "name": "SP/180"
       },
       {
         "type": 1,
@@ -85,6 +110,24 @@
         "FA": "0x5Ad04Ad0fDB383fe0e939690D8ce9fCbBE0E3CA8",
         "V42": "0xA573cD6890b50E02Dd658164882ee7B6A86C1122",
         "name": "FA/180"
+      },
+      {
+        "type": 1,
+        "pid": 0,
+        "symbol": "CF/V42",
+        "img": "https://static.paraluni.org/images/tinified/CF.png",
+        "CF": "0xFdc7a089CD7463dd6be155A7f3f21CF10338B888",
+        "v42": "0xA573cD6890b50E02Dd658164882ee7B6A86C1122",
+        "name": "CF/90"
+      },
+      {
+        "type": 1,
+        "pid": 1,
+        "symbol": "CF/V42",
+        "img": "https://static.paraluni.org/images/tinified/CF.png",
+        "CF": "0xFdc7a089CD7463dd6be155A7f3f21CF10338B888",
+        "v42": "0xA573cD6890b50E02Dd658164882ee7B6A86C1122",
+        "name": "CF/60"
       },
       {
         "type": 1,
@@ -175,49 +218,6 @@
         "NL": "0xf9fb823089f7178fc19be2bf1d811937bbf3f331",
         "V42": "0xA573cD6890b50E02Dd658164882ee7B6A86C1122",
         "name": "NL/180"
-      },
-      {
-        "type": 1,
-        "pid": 41,
-        "symbol": "USDT/V42",
-        "img": "https://static.paraluni.org/images/products/USDT@2x.png",
-        "USDT": "0x55d398326f99059ff775485246999027b3197955",
-        "V42": "0xA573cD6890b50E02Dd658164882ee7B6A86C1122",
-        "name": "USDT/180"
-      },
-      {
-        "type": 1,
-        "pid": 42,
-        "symbol": "USDT/V42",
-        "img": "https://static.paraluni.org/images/products/USDT@2x.png",
-        "USDT": "0x55d398326f99059ff775485246999027b3197955",
-        "V42": "0xA573cD6890b50E02Dd658164882ee7B6A86C1122",
-        "name": "USDT/360"
-      },
-      {
-        "type": 1,
-        "pid": 43,
-        "symbol": "V42/V42",
-        "img": "https://static.paraluni.org/images/Logos/logo-yellow@2x.png",
-        "V42": "0xBb87F2a37cf805E3755Cb1e7DA41140589190e25",
-        "name": "V42/7"
-      },
-      {
-        "type": 1,
-        "pid": 44,
-        "symbol": "V42/V42",
-        "img": "https://static.paraluni.org/images/Logos/logo-yellow@2x.png",
-        "V42": "0xBb87F2a37cf805E3755Cb1e7DA41140589190e25",
-        "name": "V42/14"
-      },
-      {
-        "type": 1,
-        "pid": 47,
-        "symbol": "SP/V42",
-        "img": "https://static.paraluni.org/images/Logos/sp.png",
-        "SP": "0x49b011Ca726F0C3A13AEA4e748249597AC790b39",
-        "V42": "0xBb87F2a37cf805E3755Cb1e7DA41140589190e25",
-        "name": "SP/180"
       }
     ],
     "lpList": [
