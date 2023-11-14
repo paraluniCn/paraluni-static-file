@@ -223,12 +223,82 @@
     "lpList": [
       {
         "type": 3,
+        "pid": 46,
+        "symbol": "V42/PUSD",
+        "img": "https://static.paraluni.org/images/tinified/V42-PUSD.png",
+        "V42": "0xBb87F2a37cf805E3755Cb1e7DA41140589190e25",
+        "imgOne": "https://static.paraluni.org/images/Logos/logo-yellow@2x.png",
+        "imgTwo": "https://static.paraluni.org/images/pusd/pusd.png",
+        "PUSD": "0x8EE943bab23C31de7164Ab8aB18a6eAa47f15478"
+      },
+      {
+        "type": 3,
         "pid": 22,
         "symbol": "V42/USDT",
         "img": "https://static.paraluni.org/images/Logos/V42-USDT.png",
         "imgOne": "https://static.paraluni.org/images/Logos/logo-yellow@2x.png",
         "imgTwo": "https://static.paraluni.org/images/products/USDT@2x.png",
         "V42": "0xBb87F2a37cf805E3755Cb1e7DA41140589190e25",
+        "USDT": "0x55d398326f99059ff775485246999027b3197955"
+      },
+      {
+        "type": 3,
+        "pid": 51,
+        "symbol": "PUSD/WBNB",
+        "img": "https://static.paraluni.org/images/tinified/PUSD-WBNB.png",
+        "PUSD": "0x8EE943bab23C31de7164Ab8aB18a6eAa47f15478",
+        "WBNB": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "imgOne": "https://static.paraluni.org/images/pusd/pusd.png",
+        "imgTwo": "https://static.paraluni.org/images/products/BNB@2x.png"
+      },
+      {
+        "type": 3,
+        "pid": 36,
+        "symbol": "BTCB/USDT",
+        "img":"https://static.paraluni.org/images/Logos/BTCB-USDT.png",
+        "BTCB": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "USDT": "0x55d398326f99059ff775485246999027b3197955",
+        "imgOne": "https://static.paraluni.org/images/products/BBTC@2x.png",
+        "imgTwo": "https://static.paraluni.org/images/products/USDT@2x.png"
+      },
+      {
+        "type": 3,
+        "pid": 48,
+        "symbol": "SP/USDT",
+        "img": "https://static.paraluni.org/images/tinified/SP-USDT.png",
+        "SP": "0x49b011Ca726F0C3A13AEA4e748249597AC790b39",
+        "imgOne": "https://static.paraluni.org/images/Logos/sp.png",
+        "imgTwo": "https://static.paraluni.org/images/products/USDT@2x.png",
+        "USDT": "0x55d398326f99059ff775485246999027b3197955"
+      },
+      {
+        "type": 3,
+        "pid": 14,
+        "symbol": "FA/USDT",
+        "img":"https://static.paraluni.org/images/tinified/FA-USDT.png",
+        "FA": "0x5Ad04Ad0fDB383fe0e939690D8ce9fCbBE0E3CA8",
+        "imgOne": "https://static.paraluni.org/images/tinified/FA.png",
+        "imgTwo": "https://static.paraluni.org/images/products/USDT@2x.png",
+        "USDT": "0x55d398326f99059ff775485246999027b3197955"
+      },
+      {
+        "type": 3,
+        "pid": 25,
+        "symbol": "FIL/USDT",
+        "img": "https://static.paraluni.org/images/Logos/FIL-USDT.png",
+        "FIL": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
+        "imgOne": "https://static.paraluni.org/images/tinified/FIL.png",
+        "imgTwo": "https://static.paraluni.org/images/products/USDT@2x.png",
+        "USDT": "0x55d398326f99059ff775485246999027b3197955"
+      },
+      {
+        "type":3,
+        "pid": 40,
+        "symbol": "Aster/USDT",
+        "img": "https://static.paraluni.org/images/Logos/ASTER-USDT.png",
+        "Aster": "0x846b8F848bd3e55183E03DBc8170655947Cc3C2c",
+        "imgOne": "https://static.paraluni.org/images/Logos/ASTER.png",
+        "imgTwo": "https://static.paraluni.org/images/products/USDT@2x.png",
         "USDT": "0x55d398326f99059ff775485246999027b3197955"
       },
       {
@@ -240,26 +310,6 @@
         "imgOne": "https://static.paraluni.org/images/hurricane/BTB.png",
         "imgTwo": "https://static.paraluni.org/images/products/BNB@2x.png",
         "WBNB": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
-      },
-      {
-        "type": 3,
-        "pid": 46,
-        "symbol": "V42/PUSD",
-        "img": "https://static.paraluni.org/images/tinified/V42-PUSD.png",
-        "V42": "0xBb87F2a37cf805E3755Cb1e7DA41140589190e25",
-        "imgOne": "https://static.paraluni.org/images/Logos/logo-yellow@2x.png",
-        "imgTwo": "https://static.paraluni.org/images/pusd/pusd.png",
-        "PUSD": "0x8EE943bab23C31de7164Ab8aB18a6eAa47f15478"
-      },
-      {
-        "type": 3,
-        "pid": 36,
-        "symbol": "BTCB/USDT",
-        "img":"https://static.paraluni.org/images/Logos/BTCB-USDT.png",
-        "BTCB": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
-        "USDT": "0x55d398326f99059ff775485246999027b3197955",
-        "imgOne": "https://static.paraluni.org/images/products/BBTC@2x.png",
-        "imgTwo": "https://static.paraluni.org/images/products/USDT@2x.png"
       },
       {
         "type": 3,
@@ -283,24 +333,12 @@
       },
       {
         "type": 3,
-        "pid": 14,
-        "symbol": "FA/USDT",
-        "img":"https://static.paraluni.org/images/tinified/FA-USDT.png",
-        "FA": "0x5Ad04Ad0fDB383fe0e939690D8ce9fCbBE0E3CA8",
-        "imgOne": "https://static.paraluni.org/images/tinified/FA.png",
-        "imgTwo": "https://static.paraluni.org/images/products/USDT@2x.png",
-
-        "USDT": "0x55d398326f99059ff775485246999027b3197955"
-      },
-      {
-        "type": 3,
         "pid": 18,
         "symbol": "FIL/V42(old)",
         "img": "https://static.paraluni.org/images/tinified/FIL-V42-LP.png",
         "FIL": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
         "imgOne": "https://static.paraluni.org/images/tinified/FIL.png",
         "imgTwo": "https://static.paraluni.org/images/Logos/V42_OLD.png",
-
         "V42(old)": "0xA573cD6890b50E02Dd658164882ee7B6A86C1122"
       },
       {
@@ -311,20 +349,9 @@
         "CGK": "0x1d6215ca4692dd6491250b116831750dd0ecf656",
         "imgOne": "https://static.paraluni.org/images/Logos/CGK.png",
         "imgTwo": "https://static.paraluni.org/images/products/USDT@2x.png",
-
         "USDT": "0x55d398326f99059ff775485246999027b3197955"
       },
-      {
-        "type": 3,
-        "pid": 25,
-        "symbol": "FIL/USDT",
-        "img": "https://static.paraluni.org/images/Logos/FIL-USDT.png",
-        "FIL": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
-        "imgOne": "https://static.paraluni.org/images/tinified/FIL.png",
-        "imgTwo": "https://static.paraluni.org/images/products/USDT@2x.png",
 
-        "USDT": "0x55d398326f99059ff775485246999027b3197955"
-      },
       {
         "type": 3,
         "pid": 26,
@@ -354,37 +381,6 @@
         "imgOne": "",
         "imgTwo": "https://static.paraluni.org/images/tinified/CF.png",
         "CF": "0xFdc7a089CD7463dd6be155A7f3f21CF10338B888"
-      },
-      {
-        "type":3,
-        "pid": 40,
-        "symbol": "Aster/USDT",
-        "img": "https://static.paraluni.org/images/Logos/ASTER-USDT.png",
-        "Aster": "0x846b8F848bd3e55183E03DBc8170655947Cc3C2c",
-        "imgOne": "https://static.paraluni.org/images/Logos/ASTER.png",
-        "imgTwo": "https://static.paraluni.org/images/products/USDT@2x.png",
-        "USDT": "0x55d398326f99059ff775485246999027b3197955"
-      },
-      {
-        "type": 3,
-        "pid": 48,
-        "symbol": "SP/USDT",
-        "img": "https://static.paraluni.org/images/tinified/SP-USDT.png",
-        "SP": "0x49b011Ca726F0C3A13AEA4e748249597AC790b39",
-        "imgOne": "https://static.paraluni.org/images/Logos/sp.png",
-        "imgTwo": "https://static.paraluni.org/images/products/USDT@2x.png",
-        "USDT": "0x55d398326f99059ff775485246999027b3197955"
-      },
-      {
-        "type": 3,
-        "pid": 51,
-        "symbol": "PUSD/WBNB",
-        "img": "https://static.paraluni.org/images/tinified/PUSD-WBNB.png",
-        "PUSD": "0x8EE943bab23C31de7164Ab8aB18a6eAa47f15478",
-        "WBNB": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
-        "imgOne": "https://static.paraluni.org/images/pusd/pusd.png",
-        "imgTwo": "https://static.paraluni.org/images/products/BNB@2x.png"
-
       }
     ],
     "unitMiningList": [
