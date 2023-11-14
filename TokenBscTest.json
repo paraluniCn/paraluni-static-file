@@ -65,6 +65,7 @@
       "address": "0x7A1980B1aCD95c9288B95f8988c0cf9642b01C6b",
       "symbol": "BTB",
       "decimal": 18,
+      "buyCommission":0.1,
       "img": "https://static.paraluni.org/images/Logos/BTB.png",
       "serviceChargeList": [
         { "percentage": 0, "sell": 0.1 },
