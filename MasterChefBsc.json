@@ -167,36 +167,6 @@
       "imgTwo": "https://static.paraluni.org/images/tinified/BNB.png"
     },
     {
-      "pid": 17,
-      "token": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
-      "symbol": "WBNB",
-      "decimal": 18,
-      "profitName": "APR",
-      "img": "https://static.paraluni.org/images/tinified/BNB.png",
-      "imgOne": "https://static.paraluni.org/images/tinified/BNB.png",
-      "imgTwo": "https://static.paraluni.org/images/tinified/BNB.png"
-    },
-    {
-      "pid": 18,
-      "token": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
-      "symbol": "ETH",
-      "decimal": 18,
-      "profitName": "APR",
-      "img": "https://static.paraluni.org/images/tinified/ETH.png",
-      "imgOne": "https://static.paraluni.org/images/tinified/ETH.png",
-      "imgTwo": "https://static.paraluni.org/images/tinified/ETH.png"
-    },
-    {
-      "pid": 19,
-      "token": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
-      "symbol": "BTCB",
-      "decimal": 18,
-      "profitName": "APR",
-      "img": "https://static.paraluni.org/images/tinified/BTCB.png",
-      "imgOne": "https://static.paraluni.org/images/tinified/BTCB.png",
-      "imgTwo": "https://static.paraluni.org/images/tinified/BTCB.png"
-    },
-    {
       "pid": 6,
       "token": "0xdbbDF41929d65c974C13c979A87B235377897DF9",
       "symbol": "V42(old)/BUSD",
@@ -235,7 +205,38 @@
       "img": "https://static.paraluni.org/images/products/USDT@2x.png",
       "imgOne": "https://static.paraluni.org/images/products/USDT@2x.png",
       "imgTwo": "https://static.paraluni.org/images/products/USDT@2x.png"
-    }
+    },
+    {
+      "pid": 17,
+      "token": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+      "symbol": "WBNB",
+      "decimal": 18,
+      "profitName": "APR",
+      "img": "https://static.paraluni.org/images/tinified/BNB.png",
+      "imgOne": "https://static.paraluni.org/images/tinified/BNB.png",
+      "imgTwo": "https://static.paraluni.org/images/tinified/BNB.png"
+    },
+    {
+      "pid": 19,
+      "token": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+      "symbol": "BTCB",
+      "decimal": 18,
+      "profitName": "APR",
+      "img": "https://static.paraluni.org/images/tinified/BTCB.png",
+      "imgOne": "https://static.paraluni.org/images/tinified/BTCB.png",
+      "imgTwo": "https://static.paraluni.org/images/tinified/BTCB.png"
+    },
+    {
+      "pid": 18,
+      "token": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "symbol": "ETH",
+      "decimal": 18,
+      "profitName": "APR",
+      "img": "https://static.paraluni.org/images/tinified/ETH.png",
+      "imgOne": "https://static.paraluni.org/images/tinified/ETH.png",
+      "imgTwo": "https://static.paraluni.org/images/tinified/ETH.png"
+    },
+
   ],
   "chef2": [
     {
