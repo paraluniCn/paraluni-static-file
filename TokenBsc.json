@@ -107,6 +107,11 @@
       "symbol": "BTB",
       "decimal": 18,
       "buyCommission":1,
+      "serviceChargeList": [
+        { "percentage": 0, "sell": 0.1 },
+        { "percentage": 0.1, "sell": 0.2 },
+        { "percentage": 0.2, "sell": 0.3 }
+      ],
       "img": "https://static.paraluni.org/images/hurricane/BTB.png",
       "noBuy": true
     },
