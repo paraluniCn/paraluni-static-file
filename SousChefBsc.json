@@ -218,15 +218,6 @@
         "NL": "0xf9fb823089f7178fc19be2bf1d811937bbf3f331",
         "V42": "0xA573cD6890b50E02Dd658164882ee7B6A86C1122",
         "name": "NL/180"
-      },
-      {
-        "type": 1,
-        "pid": 52,
-        "symbol": "SP/V42",
-        "img": "https://static.paraluni.org/images/Logos/sp.png",
-        "SP": "0x49b011Ca726F0C3A13AEA4e748249597AC790b39",
-        "V42": "0xBb87F2a37cf805E3755Cb1e7DA41140589190e25",
-        "name": "SP/60"
       }
     ],
     "lpList": [
