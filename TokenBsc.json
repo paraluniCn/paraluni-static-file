@@ -10,7 +10,6 @@
       "address": "0x8b3F149395B1331ecB1CFB3e2E6A9b0170310384",
       "symbol": "BTB",
       "decimal": 18,
-      "buyCommission":0.1,
       "serviceChargeList": [
         { "percentage": 0.2, "sell": 0.3 },
         { "percentage": 0.1, "sell": 0.2 },
