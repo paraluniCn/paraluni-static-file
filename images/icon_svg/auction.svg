@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="矩形_3464" data-name="矩形 3464" width="26" height="26" transform="translate(8 8)" fill="rgba(255,255,255,0)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.346" x2="0.567" y2="0.967" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1ff7fd"/>
+      <stop offset="0.491" stop-color="#b33bf6"/>
+      <stop offset="0.846" stop-color="#ff844c"/>
+      <stop offset="1" stop-color="#ff844b"/>
+    </linearGradient>
+  </defs>
+  <g id="蒙版组_576" data-name="蒙版组 576" transform="translate(-8 -8)" clip-path="url(#clip-path)">
+    <path id="路径_60303" data-name="路径 60303" d="M19.429,7.918a.819.819,0,0,0,1.153,0l.023-.023a.814.814,0,0,0,0-1.15L14.113.27a.819.819,0,0,0-1.153,0l-.023.022a.814.814,0,0,0,0,1.151l6.492,6.475ZM8.589,18.255l.023-.022a.814.814,0,0,0,0-1.151L2.933,11.42a.819.819,0,0,0-1.153,0l-.023.022a.814.814,0,0,0,0,1.151l5.679,5.662a.819.819,0,0,0,1.153,0ZM15,11.721l2.081-2.076a1.628,1.628,0,0,0,0-2.3L12.7,2.967a1.639,1.639,0,0,0-2.308,0L4.464,8.878a1.629,1.629,0,0,0,0,2.3l4.387,4.378a1.639,1.639,0,0,0,2.308,0l2.08-2.076L21.783,22a1.246,1.246,0,0,0,1.765-1.76L15,11.721Zm3.157,9.831a.83.83,0,0,1,0,1.659H1.527a.83.83,0,0,1,0-1.659.83.83,0,0,0,.831-.829.831.831,0,0,1,.831-.829H16.5a.831.831,0,0,1,.832.829.831.831,0,0,0,.831.829ZM6.748,10.39l3.54-1.381L9.035,7.667l5.818.207L11.572,9.579l1.028,1.1L6.747,10.39Z" transform="translate(8.681 9.378)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
