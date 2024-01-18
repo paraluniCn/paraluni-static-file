@@ -1,6 +1,33 @@
 {
   "tokenList": [
     {
+      "address": "0x984285F1B8AE5f3edDa15E2D837D726D65bE0Bd7",
+      "symbol": "WBNB",
+      "decimal": "18",
+      "img": "https://static.paraluni.org/images/products/BNB@2x.png"
+    },
+    {
+      "address": "0x7A1980B1aCD95c9288B95f8988c0cf9642b01C6b",
+      "symbol": "BTB",
+      "decimal": 18,
+      "buyCommission": 0.1,
+      "img": "https://static.paraluni.org/images/Logos/BTB.png",
+      "serviceChargeList": [
+        {
+          "percentage": 0.2,
+          "sell": 0.3
+        },
+        {
+          "percentage": 0.1,
+          "sell": 0.2
+        },
+        {
+          "percentage": 0,
+          "sell": 0.1
+        }
+      ]
+    },
+    {
       "address": "0xad30bad7a6f660a78c9b58a8dba8cb7213c2f8a9",
       "symbol": "USDT",
       "decimal": "18",
@@ -15,12 +42,6 @@
     {
       "address": "0x984285F1B8AE5f3edDa15E2D837D726D65bE0Bd7",
       "symbol": "BNB",
-      "decimal": "18",
-      "img": "https://static.paraluni.org/images/products/BNB@2x.png"
-    },
-    {
-      "address": "0x984285F1B8AE5f3edDa15E2D837D726D65bE0Bd7",
-      "symbol": "WBNB",
       "decimal": "18",
       "img": "https://static.paraluni.org/images/products/BNB@2x.png"
     },
@@ -60,27 +81,6 @@
       "symbol": "LS",
       "decimal": 18,
       "img": "https://static.paraluni.org/images/Logos/LS.png"
-    },
-    {
-      "address": "0x7A1980B1aCD95c9288B95f8988c0cf9642b01C6b",
-      "symbol": "BTB",
-      "decimal": 18,
-      "buyCommission": 0.1,
-      "img": "https://static.paraluni.org/images/Logos/BTB.png",
-      "serviceChargeList": [
-        {
-          "percentage": 0.2,
-          "sell": 0.3
-        },
-        {
-          "percentage": 0.1,
-          "sell": 0.2
-        },
-        {
-          "percentage": 0,
-          "sell": 0.1
-        }
-      ]
     }
   ],
   "tokenListNew": [
