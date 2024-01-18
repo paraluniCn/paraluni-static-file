@@ -2,7 +2,7 @@
   "tokenList": [
     {
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-      "symbol": "WBNB",
+      "symbol": "BNB",
       "decimal": 18,
       "img": "https://static.paraluni.org/images/products/BNB@2x.png"
     },
@@ -17,6 +17,12 @@
       ],
       "img": "https://static.paraluni.org/images/hurricane/BTB.png",
       "noBuy": false
+    },
+    {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB",
+      "decimal": 18,
+      "img": "https://static.paraluni.org/images/products/BNB@2x.png"
     },
     {
       "address": "0x8EE943bab23C31de7164Ab8aB18a6eAa47f15478",
@@ -36,12 +42,7 @@
       "decimal": 18,
       "img": "https://static.paraluni.org/images/products/BUSD@2x.png"
     },
-    {
-      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-      "symbol": "BNB",
-      "decimal": 18,
-      "img": "https://static.paraluni.org/images/products/BNB@2x.png"
-    },
+
 
     {
       "address": "0xA573cD6890b50E02Dd658164882ee7B6A86C1122",
