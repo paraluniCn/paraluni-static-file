@@ -252,6 +252,16 @@
       },
       {
         "type": 3,
+        "pid": 53,
+        "symbol": "BTB/V42",
+        "img": "https://static.paraluni.org/images/hurricane/BTB-V42.png",
+        "imgOne": "https://static.paraluni.org/images/hurricane/BTB.png",
+        "imgTwo": "https://static.paraluni.org/images/Logos/logo-yellow@2x.png",
+        "BTB": "0x8b3F149395B1331ecB1CFB3e2E6A9b0170310384",
+        "V42": "0xBb87F2a37cf805E3755Cb1e7DA41140589190e25"
+      },
+      {
+        "type": 3,
         "pid": 51,
         "symbol": "PUSD/WBNB",
         "img": "https://static.paraluni.org/images/tinified/PUSD-WBNB.png",
