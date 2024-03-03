@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="42" viewBox="0 0 12 42">
+  <defs>
+    <clipPath id="clip">
+      <use xlink:href="#fill"/>
+    </clipPath>
+  </defs>
+  <g id="矩形_3842" data-name="矩形 3842" fill="rgba(252,241,227,0)" stroke="#fcf0de" stroke-width="20" stroke-dasharray="3 2">
+    <rect id="fill" width="12" height="42" stroke="none"/>
+    <path d="M0,10h12M10,0v42M12,32h-12M2,42v-42" fill="none" clip-path="url(#clip)"/>
+  </g>
+</svg>
