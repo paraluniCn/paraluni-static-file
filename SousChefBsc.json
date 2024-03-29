@@ -4,6 +4,7 @@
       {
         "type": 1,
         "pid": 44,
+        "isHide":false,
         "symbol": "V42/V42",
         "img": "https://static.paraluni.org/images/Logos/logo-yellow@2x.png",
         "V42": "0xBb87F2a37cf805E3755Cb1e7DA41140589190e25",
