@@ -1,6 +1,18 @@
 {
     "tokenList": [
       {
+        "address": "0x55d398326f99059ff775485246999027b3197955",
+        "symbol": "USDT",
+        "decimal": 18,
+        "img": "https://static.paraluni.org/images/products/USDT@2x.png"
+      },
+      {
+        "address": "0xBb87F2a37cf805E3755Cb1e7DA41140589190e25",
+        "symbol": "V42",
+        "decimal": 18,
+        "img": "https://static.paraluni.org/images/Logos/logo-yellow@2x.png"
+      },
+      {
         "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
         "symbol": "BNB",
         "decimal": 18,
@@ -30,24 +42,14 @@
         "decimal": 18,
         "img": "https://static.paraluni.org/images/pusd/pusd.png"
       },
-      {
-        "address": "0x55d398326f99059ff775485246999027b3197955",
-        "symbol": "USDT",
-        "decimal": 18,
-        "img": "https://static.paraluni.org/images/products/USDT@2x.png"
-      },
+
       {
         "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
         "symbol": "BUSD",
         "decimal": 18,
         "img": "https://static.paraluni.org/images/products/BUSD@2x.png"
       },
-      {
-        "address": "0xBb87F2a37cf805E3755Cb1e7DA41140589190e25",
-        "symbol": "V42",
-        "decimal": 18,
-        "img": "https://static.paraluni.org/images/Logos/logo-yellow@2x.png"
-      },
+
   
       {
         "address": "0xA573cD6890b50E02Dd658164882ee7B6A86C1122",
