@@ -1,6 +1,18 @@
 {
   "tokenList": [
     {
+      "address": "0xE5a678BCd1d625D9723A0f274daFFE225AD0b81c",
+      "symbol": "V42",
+      "decimal": "18",
+      "img": "https://static.paraluni.org/images/Logos/logo-yellow@2x.png"
+    },
+    {
+      "address": "0xad30bad7a6f660a78c9b58a8dba8cb7213c2f8a9",
+      "symbol": "USDT",
+      "decimal": "18",
+      "img": "https://static.paraluni.org/images/products/USDT@2x.png"
+    },
+    {
       "address": "0x984285F1B8AE5f3edDa15E2D837D726D65bE0Bd7",
       "symbol": "WBNB",
       "decimal": "18",
@@ -27,12 +39,7 @@
         }
       ]
     },
-    {
-      "address": "0xad30bad7a6f660a78c9b58a8dba8cb7213c2f8a9",
-      "symbol": "USDT",
-      "decimal": "18",
-      "img": "https://static.paraluni.org/images/products/USDT@2x.png"
-    },
+
     {
       "address": "0x8104CcB258e3C1682F8D303a43Fe1678F45a2b9f",
       "symbol": "BUSD",
@@ -90,12 +97,7 @@
       "decimal": "18",
       "img": "https://static.paraluni.org/images/products/USDT@2x.png"
     },
-    {
-      "address": "0xE5a678BCd1d625D9723A0f274daFFE225AD0b81c",
-      "symbol": "V42",
-      "decimal": "18",
-      "img": "https://static.paraluni.org/images/Logos/logo-yellow@2x.png"
-    },
+
     {
       "address": "0x5A39e6dfaf0637A3ee2f9cf95C241195dd74ac80",
       "symbol": "PUSD",
