@@ -19,6 +19,20 @@
       "img": "https://static.paraluni.org/images/products/BNB@2x.png"
     },
     {
+      "address": "0x5A39e6dfaf0637A3ee2f9cf95C241195dd74ac80",
+      "symbol": "PUSD",
+      "decimal": 18,
+      "img": "https://static.paraluni.org/images/pusd/pusd.png"
+    },
+    {
+      "address": "0x983aD7336e669e9B9691c29FC0C7f901EfEDb9B8",
+      "symbol": "PNVDA",
+      "decimal": "18",
+      "img": "https://static.paraluni.org/images/3.0UI/PNVDA.png"
+    },
+
+    
+    {
       "address": "0x7A1980B1aCD95c9288B95f8988c0cf9642b01C6b",
       "symbol": "BTB",
       "decimal": 18,
