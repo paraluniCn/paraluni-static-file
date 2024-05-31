@@ -242,9 +242,20 @@
         "V42": "0xA573cD6890b50E02Dd658164882ee7B6A86C1122",
         "name": "NL/180"
     }
-      
+
     ],
     "lpList": [
+      {
+        "type": 3,
+        "pid": 56,
+        "symbol": "PNVDA/PUSD",
+        "img": "https://static.paraluni.org/images/3.0UI/pnvda-pusd.png",
+        "PNVDA": "0x4B49704C79a2199b215BC22FEf0B7815Af0Af61a",
+        "PUSD": "0x8EE943bab23C31de7164Ab8aB18a6eAa47f15478",
+        "imgOne": "https://static.paraluni.org/images/3.0UI/PNVDA.png",
+        "imgTwo": "https://static.paraluni.org/images/pusd/pusd.png"
+
+      },
       {
         "type": 3,
         "pid": 54,

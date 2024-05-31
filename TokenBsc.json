@@ -120,6 +120,12 @@
       "symbol": "CGK",
       "decimal": 18,
       "img": "https://chinggiskhaan.io/images/CGK.png"
+    },
+    {
+      "address": "0x4B49704C79a2199b215BC22FEf0B7815Af0Af61a",
+      "symbol": "PNVDA",
+      "decimal": 18,
+      "img": "https://static.paraluni.org/images/3.0UI/PNVDA.png"
     }
   ],
   "tokenListNew":  [
