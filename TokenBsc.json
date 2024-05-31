@@ -184,8 +184,8 @@
     "list": [{ "text1": "新理财-高收益：ETH/PUSD、CAKE/PUSD、LINK/PUSD 现已上线！", "text2": "", "url": ""},{ "text1": "根据币安政策要求，BUSD相关理财产品已归档，请尽快提取和赎回！", "text2": "查看详情", "url": "https://www.binance.com/zh-CN/support/announcement/%E5%B8%81%E5%AE%89%E6%8F%90%E9%86%92%E7%94%A8%E6%88%B7%E4%BA%8E2024%E5%B9%B402%E6%9C%88%E5%89%8D%E5%B0%86busd%E8%BD%AC%E6%8D%A2%E4%B8%BA%E5%85%B6%E5%AE%83%E7%A8%B3%E5%AE%9A%E5%B8%81-d392843e81fd4bc3a5f7e219aa01f34d"}]
   },
   "updateInfo": {
-    "version": "V1.0.8",
+    "version": "V1.0.9",
     "historyList": [],
-    "messageList": ["发行PUSD UI已全新改版，欢迎体验！🍾"]
+    "messageList": ["新功能“美股”已上线，快来使用您的加密资产PUSD进行英伟达（PNVDA）股票交易！🍾"]
   }
 }
