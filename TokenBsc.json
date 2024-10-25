@@ -31,6 +31,12 @@
       "img": "https://static.paraluni.org/images/pusd/pusd.png"
     },
     {
+      "address": "0xa21255461CEA41A3C5D78159Cf8DCc3729456304",
+      "symbol": "PTSLA",
+      "decimal": 18,
+      "img": "https://static.paraluni.org/images/3.0UI/tesla.svg"
+    },
+    {
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "symbol": "BNB",
       "decimal": 18,
