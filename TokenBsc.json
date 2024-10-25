@@ -31,6 +31,12 @@
       "img": "https://static.paraluni.org/images/pusd/pusd.png"
     },
     {
+      "address": "0xa21255461CEA41A3C5D78159Cf8DCc3729456304",
+      "symbol": "PTSLA",
+      "decimal": 18,
+      "img": "https://static.paraluni.org/images/3.0UI/tesla.svg"
+    },
+    {
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "symbol": "BNB",
       "decimal": 18,
@@ -126,7 +132,8 @@
       "symbol": "PNVDA",
       "decimal": 18,
       "img": "https://static.paraluni.org/images/3.0UI/PNVDA.png"
-    }
+    },
+
   ],
   "tokenListNew":  [
     {
@@ -184,8 +191,8 @@
     "list": [{ "text1": "新理财-高收益：ETH/PUSD、CAKE/PUSD、LINK/PUSD 现已上线！", "text2": "", "url": ""},{ "text1": "根据币安政策要求，BUSD相关理财产品已归档，请尽快提取和赎回！", "text2": "查看详情", "url": "https://www.binance.com/zh-CN/support/announcement/%E5%B8%81%E5%AE%89%E6%8F%90%E9%86%92%E7%94%A8%E6%88%B7%E4%BA%8E2024%E5%B9%B402%E6%9C%88%E5%89%8D%E5%B0%86busd%E8%BD%AC%E6%8D%A2%E4%B8%BA%E5%85%B6%E5%AE%83%E7%A8%B3%E5%AE%9A%E5%B8%81-d392843e81fd4bc3a5f7e219aa01f34d"}]
   },
   "updateInfo": {
-    "version": "V1.1.1",
+    "version": "V1.1.2",
     "historyList": [],
-    "messageList": ["50年债券已上线，1000张限量纪念NFT限时开送！快来收藏体验吧！🍾"]
+    "messageList": ["不用开户炒美股-特斯拉，PTSLA领航上线！现在就来体验吧！🍾"]
   }
 }
