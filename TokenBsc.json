@@ -170,6 +170,12 @@
       ],
       "img": "https://static.paraluni.org/images/hurricane/BTB.png",
       "noBuy": false
+    },
+    {
+      "address": "0x8219eE1221349440C56f58B5a0D57aF519efbe66",
+      "symbol": "Fire",
+      "decimal": 18,
+      "img": "https://static.paraluni.org/images/fire/fire_logo.svg"
     }
   ],
   "HomeCarouselList": [
