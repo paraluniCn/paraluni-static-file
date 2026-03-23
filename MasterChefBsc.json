@@ -235,6 +235,18 @@
   ],
   "chef2": [
     {
+      "pid": 26,
+      "token": "0xAA0E631e69BeD9D6361B04752C62F63D23Dc5095",
+      "symbol": "XAUM/PGLD",
+      "decimal": 18,
+      "profitName": "APR",
+      "img": "https://static.paraluni.org/images/Logos/xaum_pgld.png",
+      "imgOne": "https://static.paraluni.org/images/Logos/xaum.svg",
+      "imgTwo": "https://static.paraluni.org/images/fire/Pgold.png",
+      "isStableSwap": true,
+      "stableSwapAddress": "0x8EaF92753eb1C8d59d347406DEe4C3F8A1a7bF82"
+    },
+    {
       "pid": 5,
       "token": "0xEF7ae734a1E522498DF44d68853E9329674d51D5",
       "symbol": "USDT/BUSD",

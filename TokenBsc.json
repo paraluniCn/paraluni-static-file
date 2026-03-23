@@ -17,9 +17,18 @@
       "symbol": "BTB",
       "decimal": 18,
       "serviceChargeList": [
-        { "percentage": 0.2, "sell": 0.04 },
-        { "percentage": 0.1, "sell": 0.03 },
-        { "percentage": 0, "sell": 0.02 }
+        {
+          "percentage": 0.2,
+          "sell": 0.04
+        },
+        {
+          "percentage": 0.1,
+          "sell": 0.03
+        },
+        {
+          "percentage": 0,
+          "sell": 0.02
+        }
       ],
       "img": "https://static.paraluni.org/images/hurricane/BTB.png",
       "noBuy": false
@@ -90,7 +99,6 @@
       "decimal": 18,
       "img": "https://static.paraluni.org/images/tinified/FIL.png"
     },
-
     {
       "address": "0xA573cD6890b50E02Dd658164882ee7B6A86C1122",
       "symbol": "V42(old)",
@@ -138,9 +146,15 @@
       "symbol": "PGLD",
       "decimal": 18,
       "img": "https://static.paraluni.org/images/3.0UI/pgld.png"
+    },
+    {
+      "address": "0x23ae4fd8e7844cdbc97775496ebd0e8248656028",
+      "symbol": "XAUM",
+      "decimal": 18,
+      "img": "https://static.paraluni.org/images/Logos/xaum.svg"
     }
   ],
-  "tokenListNew":  [
+  "tokenListNew": [
     {
       "address": "0x55d398326f99059ff775485246999027b3197955",
       "symbol": "USDT",
@@ -164,9 +178,18 @@
       "symbol": "BTB",
       "decimal": 18,
       "serviceChargeList": [
-        { "percentage": 0.2, "sell": 0.3 },
-        { "percentage": 0.1, "sell": 0.2 },
-        { "percentage": 0, "sell": 0.1 }
+        {
+          "percentage": 0.2,
+          "sell": 0.3
+        },
+        {
+          "percentage": 0.1,
+          "sell": 0.2
+        },
+        {
+          "percentage": 0,
+          "sell": 0.1
+        }
       ],
       "img": "https://static.paraluni.org/images/hurricane/BTB.png",
       "noBuy": false
@@ -179,31 +202,84 @@
     }
   ],
   "HomeCarouselList": [
-    {"img":  "https://static.paraluni.org/images/Banners/btc_fund_banner.png", "url": "https://apollo.paraluni.org/pusdFundBuy/5", "openNewWindow": true},
-    {"img": "https://static.paraluni.org/images/pusd/pusd_fund_home_banner.png","url": "https://apollo.paraluni.org/pusdFundBuy/0","openNewWindow": true},
-    {"img":  "https://static.paraluni.org/images/pusd/pusd_banner.png","url": "https://apollo.paraluni.org/saIntroduction","openNewWindow": true},
-    {"img":  "https://static.paraluni.org/images/Banners/banner_contact.jpg", "url": "https://t.me/paraluni_CN", "openNewWindow": true},
-    {"img":  "https://static.paraluni.org/images/Banners/pledge-V42.png", "url": "/pledgeBorrowIntroduction", "openNewWindow": false},
-    {"img":  "https://static.paraluni.org/images/Banners/pledge_borrow_banner.png", "url": "/pledgeBorrowIntroduction", "openNewWindow": false},
-    {"img":  "https://static.paraluni.org/images/Banners/paraluni_trade_banner.png", "url": ""},
-    {"img":  "https://static.paraluni.org/images/Banners/HomeSwiperBg5.png", "url": "https://legacy.paraluni.org/", "openNewWindow": true}
-
+    {
+      "img": "https://static.paraluni.org/images/Banners/btc_fund_banner.png",
+      "url": "https://apollo.paraluni.org/pusdFundBuy/5",
+      "openNewWindow": true
+    },
+    {
+      "img": "https://static.paraluni.org/images/pusd/pusd_fund_home_banner.png",
+      "url": "https://apollo.paraluni.org/pusdFundBuy/0",
+      "openNewWindow": true
+    },
+    {
+      "img": "https://static.paraluni.org/images/pusd/pusd_banner.png",
+      "url": "https://apollo.paraluni.org/saIntroduction",
+      "openNewWindow": true
+    },
+    {
+      "img": "https://static.paraluni.org/images/Banners/banner_contact.jpg",
+      "url": "https://t.me/paraluni_CN",
+      "openNewWindow": true
+    },
+    {
+      "img": "https://static.paraluni.org/images/Banners/pledge-V42.png",
+      "url": "/pledgeBorrowIntroduction",
+      "openNewWindow": false
+    },
+    {
+      "img": "https://static.paraluni.org/images/Banners/pledge_borrow_banner.png",
+      "url": "/pledgeBorrowIntroduction",
+      "openNewWindow": false
+    },
+    {
+      "img": "https://static.paraluni.org/images/Banners/paraluni_trade_banner.png",
+      "url": ""
+    },
+    {
+      "img": "https://static.paraluni.org/images/Banners/HomeSwiperBg5.png",
+      "url": "https://legacy.paraluni.org/",
+      "openNewWindow": true
+    }
   ],
   "FinanceCarouselList": [
-    {"img":  "https://static.paraluni.org/images/Banners/qfd_banner_small.png", "url": "/finance", "openNewWindow": false},
-    {"img":  "https://static.paraluni.org/images/Banners/banner-dongsheng-small.png", "url": "/finance", "openNewWindow": false},
-    {"img":  "https://static.paraluni.org/images/Banners/BannerCgkSmall.png"}
+    {
+      "img": "https://static.paraluni.org/images/Banners/qfd_banner_small.png",
+      "url": "/finance",
+      "openNewWindow": false
+    },
+    {
+      "img": "https://static.paraluni.org/images/Banners/banner-dongsheng-small.png",
+      "url": "/finance",
+      "openNewWindow": false
+    },
+    {
+      "img": "https://static.paraluni.org/images/Banners/BannerCgkSmall.png"
+    }
   ],
   "toastInfo": {
     "isShow": false,
     "text1": "飓风矿机挖矿开启！",
     "text2": "",
     "url": "",
-    "list": [{ "text1": "新理财-高收益：ETH/PUSD、CAKE/PUSD、LINK/PUSD 现已上线！", "text2": "", "url": ""},{ "text1": "根据币安政策要求，BUSD相关理财产品已归档，请尽快提取和赎回！", "text2": "查看详情", "url": "https://www.binance.com/zh-CN/support/announcement/%E5%B8%81%E5%AE%89%E6%8F%90%E9%86%92%E7%94%A8%E6%88%B7%E4%BA%8E2024%E5%B9%B402%E6%9C%88%E5%89%8D%E5%B0%86busd%E8%BD%AC%E6%8D%A2%E4%B8%BA%E5%85%B6%E5%AE%83%E7%A8%B3%E5%AE%9A%E5%B8%81-d392843e81fd4bc3a5f7e219aa01f34d"}]
+    "list": [
+      {
+        "text1": "新理财-高收益：ETH/PUSD、CAKE/PUSD、LINK/PUSD 现已上线！",
+        "text2": "",
+        "url": ""
+      },
+      {
+        "text1": "根据币安政策要求，BUSD相关理财产品已归档，请尽快提取和赎回！",
+        "text2": "查看详情",
+        "url": "https://www.binance.com/zh-CN/support/announcement/%E5%B8%81%E5%AE%89%E6%8F%90%E9%86%92%E7%94%A8%E6%88%B7%E4%BA%8E2024%E5%B9%B402%E6%9C%88%E5%89%8D%E5%B0%86busd%E8%BD%AC%E6%8D%A2%E4%B8%BA%E5%85%B6%E5%AE%83%E7%A8%B3%E5%AE%9A%E5%B8%81-d392843e81fd4bc3a5f7e219aa01f34d"
+      }
+    ]
   },
   "updateInfo": {
     "version": "V1.1.5",
     "historyList": [],
-    "messageList": ["星火计划，火热上线！开启 Web3 国家级金融新纪元！抢占 Web3 主权金融体系早期席位！🍾"]
+    "messageList": [
+      "星火计划，火热上线！开启 Web3 国家级金融新纪元！抢占 Web3 主权金融体系早期席位！🍾"
+    ]
   }
 }
