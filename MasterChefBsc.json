@@ -254,8 +254,7 @@
       "imgOne": "https://static.paraluni.org/images/pusd/pusd.png",
       "imgTwo": "https://static.paraluni.org/images/products/USDT@2x.png",
       "isStableSwap": true,
-      "stableSwapAddress": "0x8AAdab3A819Fc89BAc7eE33d40A25B662AC59C1B",
-      "stableSwapLp": "0x52EE3b54F30D3263E0ec0572916d186235382e8A"
+      "stableSwapAddress": "0x8AAdab3A819Fc89BAc7eE33d40A25B662AC59C1B"
     }
   ]
 }
