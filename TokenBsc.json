@@ -199,6 +199,12 @@
       "symbol": "Fire",
       "decimal": 18,
       "img": "https://static.paraluni.org/images/fire/fire_logo.svg"
+    },
+    {
+      "address": "0x6C12dE1f85aA804955d235f3D05e216ae339D99A",
+      "symbol": "QFD",
+      "decimal": 18,
+      "img": ""
     }
   ],
   "HomeCarouselList": [
