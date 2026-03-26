@@ -488,5 +488,8 @@
         "chain": "Pancake"
       }
     ]
-  }
+  },
+  "legacyIgnorePid": [
+    58
+  ]
 }

@@ -276,5 +276,6 @@
       "isStableSwap": true,
       "stableSwapAddress": "0x8AAdab3A819Fc89BAc7eE33d40A25B662AC59C1B"
     }
-  ]
+  ],
+  "legacyIgnorePid": [26]
 }
