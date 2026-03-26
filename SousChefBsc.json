@@ -487,9 +487,10 @@
         "USDT": "0x55d398326f99059ff775485246999027b3197955",
         "chain": "Pancake"
       }
+    ],
+    "legacyIgnorePid": [
+      58
     ]
-  },
-  "legacyIgnorePid": [
-    58
-  ]
+  }
+
 }
