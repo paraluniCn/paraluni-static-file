@@ -158,6 +158,7 @@
       "symbol": "Fire",
       "decimal": 18,
       "img": "https://static.paraluni.org/images/fire/fire_logo.svg",
+      "noBuy": true,
       "serviceChargeList": [
         {
           "percentage": 0.5,
