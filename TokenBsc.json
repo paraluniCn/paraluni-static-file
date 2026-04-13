@@ -152,6 +152,38 @@
       "symbol": "XAUM",
       "decimal": 18,
       "img": "https://static.paraluni.org/images/Logos/xaum.svg"
+    },
+    {
+      "address": "0x8219eE1221349440C56f58B5a0D57aF519efbe66",
+      "symbol": "Fire",
+      "decimal": 18,
+      "img": "https://static.paraluni.org/images/fire/fire_logo.svg",
+      "serviceChargeList": [
+        {
+          "percentage": 0.5,
+          "sell": 1
+        },
+        {
+          "percentage": 0.4,
+          "sell": 0.8
+        },
+        {
+          "percentage": 0.3,
+          "sell": 0.6
+        },
+        {
+          "percentage": 0.2,
+          "sell": 0.4
+        },
+        {
+          "percentage": 0.1,
+          "sell": 0.2
+        },
+        {
+          "percentage": 0,
+          "sell": 0.05
+        }
+      ]
     }
   ],
   "tokenListNew": [
