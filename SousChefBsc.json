@@ -3,14 +3,6 @@
     "aggregationList": [
       {
         "type": 1,
-        "pid": 64,
-        "symbol": "FIRE/V42",
-        "img": "https://static.paraluni.org/images/Logos/logo-yellow@2x.png",
-        "V42": "0xBb87F2a37cf805E3755Cb1e7DA41140589190e25",
-        "name": "V42/14"
-      },
-      {
-        "type": 1,
         "pid": 44,
         "symbol": "V42/V42",
         "img": "https://static.paraluni.org/images/Logos/logo-yellow@2x.png",
@@ -54,9 +46,9 @@
         "type": 1,
         "pid": 31,
         "symbol": "V42/V42",
-        "img": "https://static.paraluni.org/images/fire/fire_logo.svg",
+        "img": "https://static.paraluni.org/images/Logos/logo-yellow@2x.png",
         "V42": "0xBb87F2a37cf805E3755Cb1e7DA41140589190e25",
-        "name": "FIRE/60"
+        "name": "V42/90"
       },
       {
         "type": 1,
